@@ -1,2 +1,4 @@
 # oraculpro.github.io
-#gdergerge
+# проверка связи
+
+oraculpro.github.io
